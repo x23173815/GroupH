@@ -19,6 +19,8 @@ Dataset 3 - Taken by Dheeraj Salokhe(x23216905)
 
 Respected Professor,
 
+**Please open dataset link with google chrome browser**
+
  **MONGODB** - I request you to please put this link before connecting to MONGODB compass, so the code is runable **"mongodb+srv://x23173815:harsh@cluster0.ayuzwdf.mongodb.net/"**.
 
  **MYSQL** - I even request you to change the connection parameter for your local host machine in MYSQL, so that the database will be uploaded on your machine.
